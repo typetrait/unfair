@@ -1,8 +1,0 @@
-C:\Users\Ventzz\Documents\Home\Files\Coding\Projects\Unfair\Unfair\bin\Debug\Unfair.exe.config
-C:\Users\Ventzz\Documents\Home\Files\Coding\Projects\Unfair\Unfair\bin\Debug\Unfair.exe
-C:\Users\Ventzz\Documents\Home\Files\Coding\Projects\Unfair\Unfair\bin\Debug\Unfair.pdb
-C:\Users\Ventzz\Documents\Home\Files\Coding\Projects\Unfair\Unfair\obj\Debug\Unfair.csprojResolveAssemblyReference.cache
-C:\Users\Ventzz\Documents\Home\Files\Coding\Projects\Unfair\Unfair\obj\Debug\Unfair.exe
-C:\Users\Ventzz\Documents\Home\Files\Coding\Projects\Unfair\Unfair\obj\Debug\Unfair.pdb
-C:\Users\Ventzz\Documents\Home\Files\Coding\Projects\Unfair\Unfair\obj\Debug\Unfair.Overlay.OverlayForm.resources
-C:\Users\Ventzz\Documents\Home\Files\Coding\Projects\Unfair\Unfair\obj\Debug\Unfair.csproj.GenerateResource.Cache
