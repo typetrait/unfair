@@ -1,6 +1,6 @@
-# Unfair
-Unfair is a very simplistic external Counter-Strike: Global Offensive cheat. It is not intended for actual use and is rather meant for study purposes.
+![Unfair Logo](unfair-banner.png)
+
+Unfair is a rudimentary external Glow ESP for Counter-Strike: Global Offensive. It is not up-to-date(discontinued) and should only serve for studying. Any additional uses are, therefore, discouraged.
 
 ## Features
-* Overlay UI for toggling the modules graphically and in-game
 * Glow ESP
